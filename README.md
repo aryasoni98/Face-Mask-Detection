@@ -1,1 +1,3 @@
-# Face-Mask-Detection
+# Face Mask Detection
+
+![](fask_mask_detection.gif)
